@@ -1,4 +1,4 @@
-# swport
+# SWport
 
 **swport** is a fast, multi-threaded port scanner inspired by Nmap — proudly built in Python by **Samurai\_vxtW** 🥷🏻. It supports TCP, UDP, OS detection (via ICMP ping), and Nmap-style output formatting, all via a clean command-line interface.
 
